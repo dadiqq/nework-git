@@ -1,2 +1,15 @@
 todady git push
 cglmq change gitpush
+env GIT_SSL_NO_VERIFY=true git push ----上传文件到github 
+mkdir .ssh 
+cd .ssh 
+ssh-keygen -t rsa -C 
+ll 
+a. 登陆 github >account setting>ssh keys
+b. add ssh keys
+c.  title 随便  key id—_rsa.pub 拷贝
+测试 ssh -T git@github.com
+echo 'unset SSH_ASKPASS' >> ~/.bashrc && source ~/.bashrc 
+git config --global push.default simple
+git config --global push.default matching
+git push -u origin master
