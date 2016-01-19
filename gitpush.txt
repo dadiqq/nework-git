@@ -13,3 +13,4 @@ echo 'unset SSH_ASKPASS' >> ~/.bashrc && source ~/.bashrc
 git config --global push.default simple
 git config --global push.default matching
 git push -u origin master
+luck today
