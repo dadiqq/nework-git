@@ -1,1 +1,1 @@
-git commit -m echo $var
+git commit -m date
