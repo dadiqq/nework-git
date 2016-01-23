@@ -1,4 +1,4 @@
-abc.py
 addgit
-chmod.sh
-gitadd.sh
+gitadd.py
+gitpush.py
+../gitpush.sh
