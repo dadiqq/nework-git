@@ -1,5 +1,2 @@
-gitadd.txt
-abc.py
 gitadd.py
-sssddc.py
-sssxxxddc.py
+gitadd.txt
