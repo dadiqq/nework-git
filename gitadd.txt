@@ -1,2 +1,1 @@
-gitadd.py
 gitadd.txt
