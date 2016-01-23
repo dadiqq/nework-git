@@ -1,2 +1,0 @@
-gitadd.txt
-chmod.sh

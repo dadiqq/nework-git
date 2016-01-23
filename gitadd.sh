@@ -1,10 +1,10 @@
 
 git status -s 
 
-git status -s  | awk ' $2 { print ( $2 ) }'>gitadd.txt
+git status -s  | awk ' $2 { print ( $2 ) }'>addgit
 
 
-git add `more  gitadd.txt`
+git add `more  addgit`
 
 git status -s 
 
