@@ -5,3 +5,9 @@ Debian 下使用apt-get装软件，总提示插入光盘 (2012-03-10 12:22:29)�
 用"#"注释掉有"cdrom"字样的那几行
 
 那几行一般放在开头,意思是优先从dvd光盘安装软件,而非从网上下载
+
+
+最近在研究Linux kali 3.12-kali1-amd64  Debian 3.12.6-2kali1  x86_64 GNU/Linux
+Debian的内核
+发现vim竟然没有颜色，root或sudo修改
+vim /etc/vim/vimrc   #查找到syntax on 启用，去掉前面的“ (引号)。
