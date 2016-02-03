@@ -9,3 +9,11 @@ git push -u origin master
 #创建+切换分支：git checkout -b <name>
 #合并某分支到当前分支：git merge <name>
 #删除分支：git branch -d <name>
+用带参数的git log也可以看到分支的合并情况：
+
+# git log --graph --pretty=oneline --abbrev-commit
+小结
+
+当Git无法自动合并分支时，就必须首先解决冲突。解决冲突后，再提交，合并完成。
+
+用git log --graph命令可以看到分支合并图。
