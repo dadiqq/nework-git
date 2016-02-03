@@ -24,3 +24,4 @@ vim /etc/vim/vimrc   #查找到syntax on 启用，去掉前面的“ (引号)。
 在文件内添加一行export TZ='Asia/Shanghai'。
 修改export PATH那行，添加$TZ到PATH内，然后进行保存。
 然后执行命令"source /etc/profile"更新系统变量。
+dbbbccc
