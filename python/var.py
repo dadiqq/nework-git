@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #Filename : var.py
 i = 5
 print(i)
