@@ -1,0 +1,24 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux 8.3.0 _Jessie_ - Official amd64 DVD Binary-1 20160123-19:03]/ jessie contrib main
+
+#deb cdrom:[Debian GNU/Linux 8.3.0 _Jessie_ - Official amd64 DVD Binary-1 20160123-19:03]/ jessie contrib main
+
+
+
+# jessie-updates, previously known as 'volatile'
+deb http://mirrors.163.com/debian/ jessie main
+deb-src http://mirrors.163.com/debian/ jessie main
+deb http://mirrors.163.com/debian/ jessie-updates main
+deb-src http://mirrors.163.com/debian/ jessie-updates main
+deb http://httpredir.debian.org/debian/ jessie main contrib non-free
+
+deb http://mirrors.kernel.org/debian/ jessie main
+deb-src http://mirrors.kernel.org/debian/ jessie main
+
+deb http://security.debian.org/ jessie/updates main contrib
+deb-src http://security.debian.org/ jessie/updates main contrib
+
+deb http://mirrors.kernel.org/debian/ jessie-updates main contrib
+deb-src http://mirrors.kernel.org/debian/ jessie-updates main contrib
+deb http://http.debian.net/debian/ jessie main contrib non-free
