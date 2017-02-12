@@ -25,3 +25,9 @@ git config --global push.default simple
 git remote add origin git@github.com:dadiqq/nework-git.git    "//添加"
 git remote remove origin git@github.com:dadiqq/nework-git.git " //删除"
 
+git clone  git@github.com:dadiqq/nework-git.git
+##git checkout -b dev  --创建并切换到 dev分支    git branch  ---查看分支
+##git checkout -b dev  --创建并切换到 dev分支  ##  git branch  ---查看分支
+#git checkout master --切换分支
+#git merge dev  --合并到当前分支
+#git branch -d dev   --删除分支
