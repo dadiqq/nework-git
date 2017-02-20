@@ -1,0 +1,1570 @@
+    1  su
+    2  sudo apt-get install fcitx
+    3  scp limq2@192.168.1.22:/home/limq2/*.deb
+    4  scp limq2@192.168.1.22:/home/limq2/*.deb  ./
+    5  ls
+    6  dpkg -i sogoupinyin_2.1.0.0082_amd64.deb 
+    7  dkpg -i sogoupinyin_2.1.0.0082_amd64.deb 
+    8  sudo apt-get install dkpg
+    9  sudo apt-get install dpkg
+   10  dpkg -i sogoupinyin_2.1.0.0082_amd64.deb 
+   11  sudo dpkg -i sogoupinyin_2.1.0.0082_amd64.deb 
+   12  gdebi  sogoupinyin_2.1.0.0082_amd64.deb 
+   13  sudo gdebi  sogoupinyin_2.1.0.0082_amd64.deb 
+   14  ls
+   15  ll
+   16  apt-get install firmware-*  
+   17  sudo apt-get install firmware-*  
+   18  su
+   19  df -h
+   20  free
+   21  free -m
+   22  history
+   23  cd Downloads/
+   24  ls
+   25  gdebi nixnote2-2.0-beta1_amd64.deb 
+   26  sudo gdebi nixnote2-2.0-beta1_amd64.deb 
+   27  sudo apt-get  libpoppler28 libpoppler43 libpoppler44
+   28  sudo apt-get install  libpoppler28 libpoppler43 libpoppler44
+   29  ls
+   30  ll
+   31  tar -xvzf nixnote2-2.0-beta11_amd64.tar.gz 
+   32  ls
+   33  cd nixnote2
+   34  ls
+   35  ll
+   36  sudo ./install.sh 
+   37  ./install.sh 
+   38  sudo ./install.sh 
+   39  su - root
+   40  sudo sh -c 'echo "deb http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main" >> /etc/apt/sources.list
+   41  cd
+   42  sudo vim /etc/apt/sources.list
+   43  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EEA14886
+   44  sudo apt-get update
+   45  vim jav.sh
+   46  ls
+   47  chmod 700 jav.sh 
+   48  ls
+   49  ./jav.sh 
+   50  sudo su
+   51  su - root
+   52  cd 
+   53  ls
+   54  cd Downloads/
+   55  ls
+   56  cd nixnote2
+   57  ls
+   58  ll
+   59  ls
+   60  cd usr/bin/
+   61  ls
+   62  ./nixnote2 
+   63  ls
+   64  cd..
+   65  cd ..
+   66  ls
+   67  ./install.sh 
+   68  cat install.sh 
+   69  ls
+   70  cd /usr/bin/
+   71  ls
+   72  ./nixnote2
+   73  cd
+   74  ls
+   75  cd Downloads/
+   76  ls
+   77  cd nixnote2
+   78  ls
+   79  ./uninstall.sh 
+   80  sudo
+   81  sudo 
+   82  su 
+   83  sudo apt-get install libcurl4-openssl-dev
+   84  sudo apt-get install libpoppler-qt5-dev
+   85  ls
+   86  cd Downloads/
+   87  ls
+   88  cd nixnote2/
+   89  ls
+   90  cd usr/bin/
+   91  ls
+   92  ./nixnote2 
+   93  sudo apt-get qt5-webkit
+   94  sudo apt-get qt5-webkit*
+   95  sudo apt-get qt5
+   96  sudo apt-get qt5we
+   97  apt-cache  qt
+   98  apt-cache  qt5
+   99  apt-cache install  qt5
+  100  $ sudo apt-get install qt5-qmake qtbase5-dev libqrencode-dev libappindicator-dev libzbar-dev libbotan1.10-dev
+  101  cd
+  102  $ sudo apt-get install qt5-qmake qtbase5-dev libqrencode-dev libappindicator-dev libzbar-dev libbotan1.10-dev
+  103  cd
+  104  cd Downloads/
+  105  ls
+  106  tar -xvzf   nixnote2-2.0-beta1_amd64.tar.gz 
+  107  ls
+  108  cd nixnote
+  109  ls
+  110  cd nixnote2/
+  111  ls
+  112  dir
+  113  cd ..
+  114  rm -rf nixnote2/
+  115  ls
+  116  tar -xvzf   nixnote2-2.0-beta1_amd64.tar.gz 
+  117  ls
+  118  cd nixnote2
+  119  ll
+  120  ls
+  121  cd ..
+  122  ls
+  123  tar -xzvf nixnote2-2.0-beta11_amd64.tar.gz
+  124  cd
+  125  ls
+  126  cd Downloads/
+  127  ls
+  128  cd nixnote2
+  129  ls
+  130  ./uninstall.sh 
+  131  sudo ./uninstall.sh 
+  132  su - root
+  133  dir
+  134  ls
+  135  ll
+  136  su - root
+  137  cd /home/limq/Downloads/nixnote2
+  138  ls
+  139  ls
+  140  ./nixnote2 
+  141  ls
+  142  ./nixnote2 
+  143  sudo apt-get install qtbase5-dev qt5-qmake qt5-default libbotan1.10-dev unzip debhelper
+  144  ls
+  145  ./nixnote2 
+  146  apt-get install gcc g++
+  147  sudo apt-get install gcc g++
+  148  apt-get autoremove $ sudo apt-get install qt5-qmake qtbase5-dev libqrencode-dev libappindicator-dev libzbar-dev libbotan1.10-dev
+  149  sudo apt-get autoremove $ sudo apt-get install qt5-qmake qtbase5-dev libqrencode-dev libappindicator-dev libzbar-dev libbotan1.10-dev
+  150  ls
+  151  ./nixnote2 
+  152  sudo apt-get install lib64qt5widgets5-5.2.1-3-rosa2012.1.x86_64
+  153  sudo apt-get install lib64qt5widgets5-5.2.1-3
+  154  cd
+  155  apt-cache search "^apt"
+  156  apt-cache search "^libQt5We"
+  157  sudo apt-get install libqt5webkit5 libqt5webkit5-dbg libqt5webkit5-dev libqt5websockets5  libqt5websockets5-dev
+  158  ls
+  159  cd Downloads
+  160  ls
+  161  ./nixnote2/usr/bin/nixnote2 
+  162  sudo ./nixnote2/usr/bin/nixnote2 
+  163  cd /usr/bin/
+  164  ls
+  165  cd
+  166  cd Downloads/
+  167  ls
+  168  cd nixnote
+  169  ls
+  170  cd nixnote2
+  171  ls
+  172  ll
+  173  cat install.sh 
+  174  su 
+  175  su
+  176  sudo su
+  177  su - root
+  178  su - root
+  179  exit
+  180  su - root
+  181  cd
+  182  cd Downloads/
+  183  ls
+  184  cd winfonts/
+  185  ls
+  186  ls |grep yahei
+  187  ls |grep Yahei
+  188  rm -f *.fon
+  189  ls
+  190  ls |grep simsun.ttf
+  191  sudo apt-get install fireflysung
+  192  sudo apt-get install rar
+  193  sudo apt-get install p7zip
+  194  rar
+  195  cd ..
+  196  rar 
+  197  rar e
+  198  rar e bb2360.rar 
+  199  ls
+  200  rar e bb2360.rar  bb2360
+  201  rar e Tahoma.rar 
+  202  ls *.ttf
+  203  ls -l  *.ttf
+  204  ls
+  205  su - root
+  206  ls
+  207  cd Downloads/
+  208  ls
+  209  cd nixnote2
+  210  ls
+  211  ./uninstall.sh 
+  212  gdebi nixnote2-2.0-beta1_amd64.deb
+  213  sudo gdebi nixnote2-2.0-beta1_amd64.deb
+  214  ls
+  215  df -h
+  216  ls
+  217  cat install.sh 
+  218  cd /usr/share/
+  219  ls
+  220  sudo apt-get install fcitx
+  221  cd 
+  222  ls
+  223  cd nixnote2
+  224  ls
+  225  cat install.sh 
+  226  ls
+  227  su 
+  228  dir
+  229  ll
+  230  dir
+  231  pwd
+  232  ls
+  233  ll
+  234  pwd
+  235  ls
+  236  ll
+  237  ls
+  238  ls -a
+  239  sudo su
+  240  su - root
+  241  su -root
+  242  ls
+  243  su - root
+  244  ls
+  245  scp limq2@192.168.1.22:/home/limq2/Downloads/* ./soft
+  246  su - root
+  247  ls
+  248  echo inportan
+  249  echo inportan >>inportant.txt
+  250  echo strace -F -o screen.log gnome-screenshot >>inportant.txt
+  251  echo  cat screen.log| grep Screenshot >>inportant.txt 
+  252  ls
+  253  cat inportant.txt 
+  254  echo " cat screen.log| grep Screenshot" >>inportant.txt 
+  255  cat inportant.txt 
+  256  gnome-screenshot -a
+  257  ls
+  258  cd Pictures/
+  259  ls
+  260  ls -a
+  261  gnome-screenshot -a -i
+  262  gnome-screenshot -w -i
+  263  man gnome-screenshot
+  264  man gnome-screenshot -f /home/limq/qq.png
+  265  gnome-screenshot -f /home/limq/qq.png
+  266  cd
+  267  ls
+  268  gnome-photos 
+  269  ls
+  270  strace -F -o strace -F -o screen.log gnome-screenshot
+  271  a.txt <<| gnome-
+  272  cd /bin/
+  273  ls -l|grep gnome
+  274  ls -l /usr/bin/ |grep gnome
+  275  ls
+  276  ls -l /usr/bin/ |grep gnome >>gnome.txt
+  277  a.txt<< ls -l /usr/bin/ |grep gnome 
+  278  ls -l /usr/bin/ |grep gnome
+  279  ls -l /usr/bin/ |grep gnome >>/home/limq/bbc
+  280  ls
+  281  cd
+  282  cat bbc 
+  283  vim bbc 
+  284  gnome-
+  285  ls
+  286  ll
+  287  pwd
+  288  cd
+  289  ls
+  290  cd Downloads/
+  291  ls
+  292  cd ..
+  293  ls
+  294  cd soft 
+  295  ls
+  296  ll
+  297  cd Downloads/
+  298  l;s
+  299  ls
+  300  scp limq2@192.168.1.22:/opt/* ./soft
+  301  man gnome-photos 
+  302  man gnome-music 
+  303  a.txt<< ls -l /usr/bin/ |grep gnome 
+  304  a.txt<< ls -l /usr/bin/ |grep gnome 
+  305  l
+  306  history
+  307  apt-cache search "^libQt5We"
+  308  echo "apt-cache search "^libQt5We" >>/home/limq/i
+  309  echo "apt-cache search "^libQt5We"" >>/home/limq/inportant.txt 
+  310  ls
+  311  cd
+  312  cat inportant.txt 
+  313  ls
+  314  apt-cache search "^gonme-"
+  315  sudo apt-cache search "^gonme-"
+  316  sudo apt-cache search "^gnome-"
+  317  scp limq@192.168.1.30:/opt/te*   /opt
+  318  sudo mkdir /opt/teamviewer
+  319  sudo scp limq@192.168.1.30:/opt/te*   /opt
+  320  cd /opt/
+  321  ls
+  322  ll
+  323  chmod 777 teamviewer/
+  324  chmod 777 ./teamviewer/
+  325  chmod o+w ./teamviewer/
+  326  chmod o+w teamviewer/
+  327  su - root
+  328  cat /sys/class/backlight/intel_backlight/max_brightness
+  329  cat /sys/class/backlight/intel_backlight/brightness
+  330  cat /usr/local/sbin/brightness.sh 
+  331  ls
+  332  vim  /usr/local/sbin/brightness.sh 
+  333  su - root
+  334  cat /sys/class/backlight/intel_backlight/brightness
+  335  cat /usr/local/sbin/brightness.sh 
+  336  sh /sys/class/backlight/intel_backlight/brightness
+  337   /sys/class/backlight/intel_backlight/brightness
+  338  cat /sys/class/backlight/intel_backlight/brightness
+  339  vim  /usr/local/sbin/brightness.sh 
+  340  sudo   /usr/local/sbin/brightness.sh 
+  341  sudo  sh  /usr/local/sbin/brightness.sh 
+  342  cat /sys/class/backlight/intel_backlight/brightness
+  343  sudo  sh  /usr/local/sbin/brightness.sh 
+  344  cat /sys/class/backlight/intel_backlight/brightness
+  345  sudo  sh  /usr/local/sbin/brightness.sh 
+  346  cat /sys/class/backlight/intel_backlight/brightness
+  347  cat /sys/class/backlight/intel_backlight/max_brightness 
+  348  cat /sys/class/backlight/intel_backlight/brightness 
+  349  sudo    /usr/local/sbin/brightness.sh
+  350  cat /sys/class/backlight/intel_backlight/brightness 
+  351  su - root
+  352  cd /usr/share/themes/Ambiance/gtk-3.0
+  353  sudo apt-get install gnome-tweak-tools
+  354  apt-get install  gnome-shell 
+  355  sudo apt-get install  gnome-shell 
+  356  sudo add-apt-repository ppa:satyajit-happy/themes
+  357  su 
+  358  sudo add-apt-repository ppa:satyajit-happy/themes
+  359  exit
+  360  cd /usr/bin/
+  361  ls
+  362  exit
+  363  cd /home/limq
+  364  ls
+  365  cd Downloads/
+  366  ls
+  367  cd unico-1.0.2/
+  368  ls
+  369  ll
+  370  ./configure 
+  371  sudo ./config
+  372  su - root
+  373  l
+  374  ls
+  375  cd
+  376  ls
+  377  ll
+  378  git clone
+  379  mkdir .ssh
+  380  ls
+  381  cd .ssh/
+  382  ll
+  383  cd ..
+  384  vim .bashrc 
+  385  . .bashrc 
+  386  e
+  387  ee
+  388  e
+  389  cd .ssh/
+  390  ls
+  391  e
+  392  ls
+  393  cat id_rsa.pub 
+  394  ssh -T git@github.com
+  395  git config --global user.name "debian"
+  396  git config --global user.email "gylimingqi@163.com"
+  397  git config --global push.default simple
+  398  git remote add origin git@github.com:dadiqq/nework-git.git
+  399  echo 'unset SSH_ASKPASS' >> ~/.bashrc && source ~/.bashrc 
+  400  ls
+  401  cd nework-git/
+  402  ls
+  403  cd debian/
+  404  ls
+  405  cat sources.list 
+  406  e
+  407  cd ..
+  408  git remote add origin git@github.com:dadiqq/nework-git.git
+  409  git remote remove origin 
+  410  git remote add origin git@github.com:dadiqq/nework-git.git
+  411  env GIT_SSL_NO_VERIFY=true  git remote show origin
+  412  ls
+  413  vim  git-config.sh
+  414  ls
+  415  vim  git-config.sh
+  416  ls
+  417  ./gitadd.sh 
+  418  vim gitadd.sh 
+  419  ./gitadd.sh 
+  420  vim gitadd.sh 
+  421  ./gitadd.sh 
+  422  ls
+  423  pwd
+  424  ls
+  425  cd ..
+  426  ls
+  427  pwd
+  428  ls
+  429  mv .ssh/nework-git/ ./
+  430  ls
+  431  cd nework-git/
+  432  ls
+  433  ll
+  434  ./gitadd.sh 
+  435  ls
+  436  vim gitadd.sh 
+  437  ./gitadd.sh 
+  438  ls
+  439  ./gitpush.sh 
+  440  ls
+  441  cat gitpush.sh 
+  442  cat gitclone.sh 
+  443  cat gitclone.sh >>git-config.sh 
+  444  ./gitadd.sh 
+  445  cat gitpush.sh 
+  446  cat gitpush.sh >>git-config.sh 
+  447  ./gitadd.sh 
+  448  cat gitclone.sh 
+  449  cat git-config.sh 
+  450  e
+  451  fdisk
+  452  fldisk
+  453  fdisk
+  454  df
+  455  cd /media/limq/
+  456  ls
+  457  cd 2956-3715/
+  458  ls
+  459  pwd
+  460  ll
+  461  free
+  462  free -m
+  463  e
+  464  cd
+  465  cd nework-git/
+  466  cd debian/
+  467  ls
+  468  vim file-manag
+  469  cat file-manag |grep #
+  470  cat file-manag |grep “#”
+  471  cat file-manag |grep #
+  472  man
+  473  man gre
+  474  cat file-manag |grep tar
+  475  cat file-manag |grep #
+  476  cat file-manag |grep '#'
+  477  vim file-manag
+  478  ls
+  479  cat file-manag |grep '#'
+  480  ls
+  481  vim file-manag-qt 
+  482  ls
+  483  cat file-manag-qt  |grep 打包
+  484  cat file-manag-qt  |grep ‘打包’
+  485  cat file-manag-qt  |grep 打包：
+  486  cat file-manag-qt  |grep 打
+  487  cat file-manag-qt  |grep 压缩
+  488  cat file-manag-qt  |grep 解压
+  489  cd /home/limq/Downloads/
+  490  ls
+  491  man ls
+  492  ls -t
+  493  ls -t |more
+  494  tar -xzvf xE*
+  495  ls -t |more
+  496  tar -xzvf sE*
+  497  tar -zvf sE*
+  498  tar -zcf sE*
+  499  ls
+  500  tar -xzf sE*
+  501  ls
+  502  tar -xzf sEx-0.1.0.tar.gz 
+  503  ls
+  504  ls -t
+  505  e
+  506  ls -t
+  507  tar -czvf sEx-0.1.0.tar.gz
+  508  cd ..z
+  509  cd ..
+  510  ls
+  511  cp ./Downloads/sEx* ./
+  512  ls
+  513  tar -xzvf sEx-0.1.0.tar.gz
+  514  tar -xzvf sEx-tools-0.1.0-Linux-i686.tar.gz
+  515  ls
+  516  tar -xzvf sEx-tools-0.1.0-source.tar.gz
+  517  ls
+  518  cd tools/
+  519  ls
+  520  ll
+  521  cat compile.sh 
+  522  ls
+  523  ll
+  524  sEx
+  525  cd ..
+  526  ls
+  527  mkdir sex
+  528  cp sEx-0.1.0.tar.gz  ./sex/
+  529  ls
+  530  cd sex
+  531  ls
+  532  ll
+  533  tar -cxvf sEx-0.1.0.tar.gz 
+  534  tar -zxvf sEx-0.1.0.tar.gz 
+  535  ls
+  536  ll
+  537  ll -m
+  538  du -m
+  539  du
+  540  ls
+  541  ll
+  542  ls -l
+  543  cd ..
+  544  ls
+  545  ll
+  546  cd Downloads/
+  547  ls
+  548  ll
+  549  cp sEx-0.1.0* /home/limq/sex
+  550  cd ..
+  551  cd sex/
+  552  ls
+  553  rm *r.tar.gz
+  554  rm 8
+  555  rm 8*
+  556  rm *
+  557  ls
+  558  cd ..
+  559  cd Downloads/
+  560  cp sEx-0.1.0* /home/limq/sex
+  561  ls
+  562  cd ..
+  563  cd sex/
+  564  ls
+  565  ll
+  566  rm sEx-0.1.0.tar.gz 
+  567  tar -xzvf sEx-0.1.0\(1\).tar.gz 
+  568  ls
+  569  cd sEx-0.1.0
+  570  ls
+  571  ll
+  572  sEx
+  573  ll
+  574  cat Install.sh 
+  575  ls
+  576  ll
+  577  ls
+  578  ./Install.sh 
+  579  ls
+  580  cd ..
+  581  ls
+  582  cd ..
+  583  ls
+  584  cd Downloads/
+  585  ls
+  586  cd tools
+  587  ls
+  588  cd ..
+  589  ls
+  590  tar -xzvf sEx-tools-0.1.0-Linux-i686.tar.gz 
+  591  tar -xzvf sEx-tools-0.1.0-source.tar.gz 
+  592  cd ..
+  593  cd limq/
+  594  ls
+  595  cd tools/
+  596  ls
+  597  ll
+  598  vim /home/limq/.bashrc
+  599  .  /home/limq/.bashrc
+  600  ll
+  601  cd
+  602  . bashrc 
+  603  . .bashrc
+  604  ll
+  605  ls
+  606  ll
+  607  cd tools/
+  608  ls
+  609  ll
+  610  ls
+  611  ls -l
+  612  cd ..
+  613  ll
+  614  cat .bashrc 
+  615  vim .bashrc 
+  616  source .bashrc
+  617  ll
+  618  cd tools/
+  619  ll
+  620  ls
+  621  cat compile.sh 
+  622  cd ..
+  623  ls
+  624  cp tools/ sex/
+  625  cp -r tools/  sex/
+  626  cd sex/
+  627  ls
+  628  ll
+  629  cp -r tools/  sEx-0.1.0
+  630  cd sEx-0.1.0
+  631  ls
+  632  ll
+  633  ./Install.sh 
+  634  sudo ./Install.sh 
+  635  su - root
+  636  ls
+  637  cd ..
+  638  ls
+  639  sEx x sEx-0.1.0*
+  640  cd 
+  641  cd Downloads/
+  642  ls
+  643  sEx -x sEx-tools-0.1.0-Linux-i686.tar.gz 
+  644  sEx x sEx-tools-0.1.0-Linux-i686.tar.gz 
+  645  sudo sEx x sEx-tools-0.1.0-Linux-i686.tar.gz 
+  646  sEx
+  647  ls
+  648  cd ..
+  649  cd sex/
+  650  ls
+  651  cd sEx-0.1.0
+  652  ls
+  653  ll
+  654  cp sEx /usr/bin/
+  655  sudo cp sEx /usr/bin/
+  656  sEx
+  657  ls
+  658  cd
+  659  ls
+  660  sEx xsogoupinyin_2.1.0.0082_amd64.deb
+  661  sEx x sogoupinyin_2.1.0.0082_amd64.deb
+  662  exit
+  663  su - root
+  664  sudo  apt-get install gnome-shell-extensions
+  665  agdbi
+  666  gdbi
+  667  su - root
+  668  su - root
+  669  apt-add-repository 
+  670  sudo add-apt-repository ppa:satyajit-happy/themes
+  671  su - root
+  672  sudo add-apt-repository ppa:satyajit-happy/themes
+  673  su - root
+  674  kill -9 1070 1205 1281 1290 1308 1317 1319 1329 1518 1553 1586
+  675  kill -9 861
+  676  cd
+  677  fluxgui 
+  678  cd
+  679  cd .gconf/apps/
+  680  ls
+  681  ll
+  682  cd fluxgui/
+  683  ls
+  684  vim 
+  685  ll
+  686  vim %gconf.xml 
+  687  cat %gconf.xml 
+  688  ls
+  689  cat %gconf.xml 
+  690  cd nm-applet/
+  691  ls
+  692  e
+  693  ls
+  694  cat %gconf.xml 
+  695  sudo rm -rf /usr/local/lib/python2.7/dist-packages/{fluxgui/,f.lux_indicator*}
+  696  ls
+  697  mkdir flux
+  698  cd flux/
+  699  vi uninstall.sh
+  700  chmod 700 uninstall.sh 
+  701  ls
+  702  ll
+  703  ./uninstall.sh 
+  704  ll
+  705  e
+  706  cd /tmp
+  707  git clone "https://github.com/xflux-gui/xflux-gui.git"
+  708  cd xflux-gui
+  709  python download-xflux.py
+  710  sudo python setup.py install
+  711  fluxgui 
+  712  pgrep
+  713  cd
+  714  vim .bashrc 
+  715  . .bashrc 
+  716  sudo apt-get install pgrep
+  717  ps -ef |grep flux
+  718  ll
+  719  e
+  720  ps -ef |grep flux
+  721  su - root
+  722  ps -ef |grep flu
+  723  ps -ef |grep xflu
+  724  cat .gnupg/
+  725  ls
+  726  la
+  727  cd .gconf/
+  728  ls
+  729  cd apps/
+  730  ls
+  731  cd fluxgui/
+  732  ls
+  733  cat %gconf.xml 
+  734  cd ..
+  735  ls
+  736  cd nm-applet/
+  737  ls
+  738  cat %gconf.xml 
+  739  logout
+  740  ping www.sina.com
+  741  ll
+  742  ls
+  743  ll
+  744  ll
+  745  ps -ef |grep flux
+  746  ls
+  747  ll
+  748  pwd
+  749  cd Downloads/
+  750  ls
+  751  cp flash_player_npapi_linux.x86_64.tar.gz  /tmp/
+  752  ls
+  753  cd /tmp/
+  754  ls
+  755  tar -xzvf flash_player_npapi_linux.x86_64.tar.gz 
+  756  ls
+  757  tar -xzvf flash_player_npapi_linux.x86_64.tar.gz 
+  758  tar -xzf flash_player_npapi_linux.x86_64.tar.gz 
+  759  ls
+  760  cd usr/
+  761  ls
+  762  cd bin/
+  763  ls
+  764  ll
+  765  ./flash-player-properties 
+  766  cd ..
+  767  ls
+  768  cd ..
+  769  ls
+  770  e
+  771  ls
+  772  cd usr/
+  773  ls
+  774  cd share/
+  775  ls
+  776  cd applications/
+  777  ls
+  778  cd ..
+  779  cd 
+  780  cd /tmp/
+  781  ls
+  782  cp usr/  /usr/
+  783  cp -r usr/  /usr/
+  784  cp -r usr/  /
+  785  sudo cp -r usr/  /
+  786  ls
+  787  cd /usr/
+  788  ls
+  789  cd bin/
+  790  ls
+  791  ./flash-player-properties 
+  792  ls
+  793  cd
+  794  cd nework-git/
+  795  LS
+  796  ls
+  797  cd debian/
+  798  ;ls
+  799  ls
+  800  cat file-manag |grep #
+  801  cat file-manag |grep '#'
+  802  ls
+  803  cd Downloads/
+  804  ls
+  805  tar -xzvf flash_player_npapi_linux.x86_64.tar.gz 
+  806  ls
+  807  cd usr/
+  808  ls
+  809  ll
+  810  cd bin/
+  811  ls
+  812  ll
+  813  cd li
+  814  cd .
+  815  cd ..
+  816  cd lib
+  817  ls
+  818  cd ..
+  819  cd lib64/
+  820  ls
+  821  cd ..
+  822  cd share/
+  823  ls
+  824  ll
+  825  cd applications/
+  826  ls
+  827  ll
+  828  ls
+  829  cd ..
+  830  ls
+  831  cd icons/
+  832  ls
+  833  cd hicolor/
+  834  ls
+  835  cd ..
+  836  cd pi
+  837  l
+  838  ll
+  839  cd
+  840  cd Downloads/
+  841  ls
+  842  tar -zxvf flash_player_npapi_linux.x86_64(1).tar.gz
+  843  ls
+  844  sudo cp libflashplayer.so /usr/lib/mozilla/plugins/
+  845  ls
+  846  e
+  847  cd /mnt/
+  848  ls
+  849  ll
+  850  cd usb/
+  851  ls
+  852  ll
+  853  pwd
+  854  cd /media/limq/
+  855  ls
+  856  cd program/
+  857  ls
+  858  cd us
+  859  ls
+  860  cd ..
+  861  ls
+  862  cd system/
+  863  ls
+  864  cd Users/
+  865  ls
+  866  cd Administrator/
+  867  ls
+  868  cd Downloads/
+  869  ls
+  870  cp "[第*" /home/limq/Videos/
+  871  cp [第* /home/limq/Videos/
+  872  e
+  873  cd
+  874  sudo apt-get install libc6-dev-i386
+  875  e
+  876  cd lantern/
+  877  ls
+  878  make lantern
+  879  ll
+  880  cd Makefile 
+  881  cat Makefile 
+  882  make
+  883  make lantern
+  884  e
+  885  cd
+  886  cd Downloads/
+  887  ls
+  888  dpkg 
+  889  dpkg  -i lantern-installer-beta-64-bit.deb 
+  890  dkpg   lantern-installer-beta-64-bit.deb 
+  891  dpkg  -i lantern-installer-beta-64-bit.deb 
+  892  ls
+  893  dpkg -unpacd lantern-installer-beta-64-bit
+  894  dpkg -unpack lantern-installer-beta-64-bit
+  895  dpkg -unpack lantern-installer-beta-64-bit.deb 
+  896  ls
+  897  sudo dpkg -unpack lantern-installer-beta-64-bit.deb 
+  898  sudo dpkg i lantern-installer-beta-64-bit.deb 
+  899  aptitude lantern-installer-beta-64-bit.deb 
+  900  aptitude -i lantern-installer-beta-64-bit.deb 
+  901  aptitude lantern-installer-beta-64-bit.deb 
+  902  gdepi lantern-installer-beta-64-bit.deb 
+  903  sudo gdebi lantern-installer-beta-64-bit.deb 
+  904  lantern 
+  905  ls
+  906  lantern 
+  907  exit
+  908  cd
+  909  Downloads/
+  910  ls
+  911  cd Downloads/
+  912  ls
+  913  ll
+  914  ls
+  915  cat vagalume.install 
+  916  e
+  917  cat vagalume.install 
+  918  cd /etc/apt/
+  919  ls
+  920  vim sources.list
+  921  sudo vim sources.list
+  922  apt-get update
+  923  sudo apt-get updaste
+  924  exit
+  925  ll
+  926  cd /tmp/
+  927  ls
+  928  cd
+  929  ls
+  930  cd xflux-gui/
+  931  ls
+  932  ll
+  933  ./fluxgui 
+  934  cd build/
+  935  ls
+  936  ll
+  937  cd ..
+  938  ls
+  939  cd debian/
+  940  ls
+  941  ll
+  942  cd source/
+  943  ls
+  944  cat format 
+  945  ls
+  946  cd 
+  947  cd .gnome/
+  948  ls
+  949  cd apps/
+  950  s
+  951  ls
+  952  ll
+  953  cd ..
+  954  ls
+  955  cd .config/
+  956  ls
+  957  cd
+  958  cd nework-git/
+  959  cd debian/
+  960  ls
+  961  cd debian.txt 
+  962  vim debian.txt 
+  963  gedit
+  964  ls
+  965  cd 
+  966  cd Downloads/
+  967  ls
+  968  chmod 700 uninstallflux.sh 
+  969  ls
+  970  ./uninstallflux.sh 
+  971  ls
+  972  ps -ef |grep flux
+  973  su - root
+  974  fluxgui 
+  975  su - root
+  976  cd
+  977  ls
+  978  vim  runfluxgui.sh
+  979  chmod 700 runfluxgui.sh 
+  980  ./runfluxgui.sh 
+  981  ps -ef |grep flux/
+  982  cat runfluxgui.sh 
+  983  fluxgui su -root ; fluxgui
+  984  su - root
+  985  ./run-xflux 
+  986  su - root
+  987  cd
+  988  ls
+  989  e
+  990  ls
+  991  su - root
+  992  cd
+  993  ls
+  994  cd Videos/
+  995  ls
+  996  ll
+  997  ls
+  998  ls -l
+  999  ls
+ 1000  cd
+ 1001  e
+ 1002  ls
+ 1003  cd
+ 1004  git clone https://github.com/getlantern/lantern.git
+ 1005  ls
+ 1006  cd lantern/
+ 1007  ls
+ 1008  make lantern
+ 1009  ls
+ 1010  ll
+ 1011  e
+ 1012  ls
+ 1013  cat run.bash 
+ 1014  ./run.bash 
+ 1015  ls
+ 1016  dir
+ 1017  e
+ 1018  ls
+ 1019  make
+ 1020  make lantern
+ 1021  ./lantern-ui/
+ 1022  ../lantern
+ 1023  ./lantern
+ 1024  ls
+ 1025  cat README.md 
+ 1026  su - root
+ 1027  su - root
+ 1028  ps -ef |grep flux
+ 1029  kill -9 27864
+ 1030  ps -ef |grep flux
+ 1031  ls
+ 1032  ./run-xflux 
+ 1033  ps -ef |grep flux
+ 1034  ls
+ 1035  vim run-xflux 
+ 1036  ./run-xflux 
+ 1037  ls
+ 1038  ps -ef |grep flux
+ 1039  vim run-xflux 
+ 1040  ./run-xflux 
+ 1041  exit
+ 1042  lantern
+ 1043  ps -ef |grep flux
+ 1044  cat run.bash 
+ 1045  ps -ef |grep flux
+ 1046  su - root
+ 1047  nixnote2
+ 1048  su - root
+ 1049  nixnote2
+ 1050  su - root
+ 1051  historry
+ 1052  history 
+ 1053  ls
+ 1054  cd Downloads/
+ 1055  ls
+ 1056  dpkg -i nixnote
+ 1057  dpkg -i nixnote2-2.0_amd64.deb 
+ 1058  sudo dpkg -i nixnote2-2.0_amd64.deb 
+ 1059  nixnote2
+ 1060  gdebi nixnote2-2.0_amd64.deb 
+ 1061  sudo gdebi nixnote2-2.0_amd64.deb 
+ 1062  ls
+ 1063  nixnote2
+ 1064  history |grep apt-
+ 1065  history |grep apt- |more
+ 1066  e
+ 1067  history |grep dpkg |more
+ 1068  history |grep python
+ 1069  lantern
+ 1070  history 
+ 1071  vim .bashrc 
+ 1072  . .bashrc 
+ 1073  su - root
+ 1074  lantern
+ 1075  ps -ef |grep lantern/
+ 1076  kill -9 15398
+ 1077  kill -9 15398 15409
+ 1078  lantern
+ 1079  lantern &
+ 1080  ps -ef |gr
+ 1081  su - root
+ 1082  su - root
+ 1083  su - root
+ 1084  lantern
+ 1085  su - root
+ 1086  su - root
+ 1087  ping www.sina.com
+ 1088  su - root
+ 1089  ping www.baidu.com
+ 1090  su - root
+ 1091  cd
+ 1092  ls
+ 1093  su
+ 1094  su
+ 1095  ping www.sina.com
+ 1096  nixnote2  &
+ 1097  nixnote2
+ 1098  ps -ef |grep nixnote2
+ 1099  nixnote2
+ 1100  lantern
+ 1101  nixnote2
+ 1102  exit
+ 1103  su - root
+ 1104  nixnote2
+ 1105  exit
+ 1106  nixnote2
+ 1107  cd .nixnote/
+ 1108  ls
+ 1109  ll
+ 1110  cat accounts.conf 
+ 1111  rm -rf *
+ 1112  exit
+ 1113  cd /usr/share/font
+ 1114  ls
+ 1115  cd /usr/share/fonts
+ 1116  ls
+ 1117  cd win/
+ 1118  ls
+ 1119  ll
+ 1120  cd ..
+ 1121  cp -r win/*  limq2@192.168.1.22:/home/limq2/win/
+ 1122  scp -r win/*  limq2@192.168.1.22:/home/limq2/win/
+ 1123  su
+ 1124  scp -r win/*  limq2@192.168.1.22:/home/limq2/win/
+ 1125  ls
+ 1126  dir
+ 1127  pwd
+ 1128  exit
+ 1129  nixnote2
+ 1130  ls
+ 1131  cd .nixnote/
+ 1132  ls
+ 1133  rm -rf *
+ 1134  cd ..
+ 1135  nixnote2
+ 1136  rm -rf .nixnote/
+ 1137  nixnote2
+ 1138  ls
+ 1139  cd .nixnote/
+ 1140  ls
+ 1141  ll
+ 1142  rm -rf db-*
+ 1143  ll
+ 1144  rm -rf spell
+ 1145  rm -rf tmp*
+ 1146  ll
+ 1147  rm -rf logs*
+ 1148  ll
+ 1149  rm -rf q*
+ 1150  cd
+ 1151  nixnote2
+ 1152  ls
+ 1153  cd .nixnote/
+ 1154  ls
+ 1155  cat accounts.conf 
+ 1156  su
+ 1157  ls
+ 1158  cd ..
+ 1159  cp a.conf ./.nixnote/
+ 1160  ls
+ 1161  cd .nixnote/
+ 1162  ls
+ 1163  cat a.conf 
+ 1164  ll
+ 1165  cat a.conf >accounts.conf 
+ 1166  cp accounts.conf ../
+ 1167  ls
+ 1168  ll
+ 1169  rm *.*
+ 1170  ls
+ 1171  ll
+ 1172  rm -rf *
+ 1173  ls
+ 1174  cd ..
+ 1175  cp accounts.conf  ./.nixnote/
+ 1176  ls
+ 1177  cd .nixnote/
+ 1178  ls
+ 1179  ll
+ 1180  nixnote2 
+ 1181  ls
+ 1182  rm -rf *
+ 1183  ls
+ 1184  ll
+ 1185  cd ..
+ 1186  vim accounts.conf 
+ 1187  ls
+ 1188  nixnote2
+ 1189  su - root
+ 1190  lantern
+ 1191  lan
+ 1192  lantern
+ 1193  ls
+ 1194  cat .nixnote/
+ 1195  la
+ 1196  ls
+ 1197  cd .nixnote/
+ 1198  ls
+ 1199  cat accounts.conf 
+ 1200  cd /opt/
+ 1201  ls
+ 1202  ll
+ 1203  cd teamviewer
+ 1204  ls
+ 1205  cat teamviewer
+ 1206  ls
+ 1207  cd ..
+ 1208  cat tea.txt 
+ 1209  cd /etc/fonts/
+ 1210  ls
+ 1211  ll
+ 1212  cd fonts.conf
+ 1213  ls
+ 1214  cat fonts.conf
+ 1215  cd /usr/share/
+ 1216  ls
+ 1217  cd fonts
+ 1218  ls
+ 1219  ll
+ 1220  l
+ 1221  ls
+ 1222  ll
+ 1223  pwd
+ 1224  cd win/
+ 1225  ls
+ 1226  ll
+ 1227  e
+ 1228  cd /etc/fonts/
+ 1229  ls
+ 1230  scp fonts.conf limq2@192.168.1.22:/home/limq2/
+ 1231  cd /opt/
+ 1232  ls
+ 1233  cd google/
+ 1234  ls
+ 1235  ll
+ 1236  cd chrome/
+ 1237  ls
+ 1238  cd ..
+ 1239  ls
+ 1240  scp teaviewer.tar.gz
+ 1241  scp teaviewer.tar.gz limq2@192.168.1.22/opt
+ 1242  scp teamviiewer.tar.gz limq2@192.168.1.22/opt
+ 1243  scp teamviewer.tar.gz limq2@192.168.1.22/opt
+ 1244  scp teamviewer.tar.gz limq2@192.168.1.22/home/limq2
+ 1245  scp teamviewer.tar.gz limq2@192.168.1.22:/home/limq2
+ 1246  scp tea.txt  limq2@192.168.1.22:/home/limq2
+ 1247  cd /home/limq/
+ 1248  ls
+ 1249  cd Downloads/
+ 1250  ls
+ 1251  scp google-chrome-stable_current_amd64.deb limq2@192.168.1.22:/home/limq2
+ 1252  ls
+ 1253  ll
+ 1254  cat uninstallflux.sh 
+ 1255  scp -r xflux-gui.tar.gz  limq2@192.168.1.22:/home/limq2/
+ 1256  scp -r uninstallflux.sh  limq2@192.168.1.22:/home/limq2/
+ 1257  cd
+ 1258  cd nework-git/
+ 1259  ls
+ 1260  cd debian/
+ 1261  ls
+ 1262  ll
+ 1263  scp -r xflux-gui.tar  limq2@192.168.1.22:/home/limq2/
+ 1264  scp -r xflux-gui.tar.gz  limq2@192.168.1.22:/home/limq2/
+ 1265  ls
+ 1266  su - root
+ 1267  su - root
+ 1268  cd
+ 1269  chho 104.156.229.8 >>104.156.229.8
+ 1270  ccho 104.156.229.8 >>104.156.229.8
+ 1271  echo 104.156.229.8 >>104.156.229.8
+ 1272  ls
+ 1273  ll
+ 1274  su
+ 1275  ls
+ 1276  scp flash_player_npapi_linux.x86_64.tar.gz  limq2@192.168.1.22:/home/limq2/
+ 1277  ls
+ 1278  e
+ 1279  ls
+ 1280  pwd
+ 1281  cd 
+ 1282  ls
+ 1283  pwd
+ 1284  ls
+ 1285  cd nework-git/
+ 1286  ls
+ 1287  ll
+ 1288  ./gitpush.sh 
+ 1289  ls
+ 1290  pwd
+ 1291  e
+ 1292  sduo apt-get update
+ 1293  sudo apt-get update
+ 1294  e
+ 1295  cat /etc/sudoers
+ 1296  su 
+ 1297  ls
+ 1298  cd /home/limq/
+ 1299  ll
+ 1300  cat 常见字体.odt 
+ 1301  q
+ 1302  e
+ 1303  clear
+ 1304  lantern
+ 1305  su
+ 1306  ls
+ 1307  su
+ 1308  su - root
+ 1309  su
+ 1310  su - root
+ 1311  ifconfig
+ 1312  su
+ 1313  pwd
+ 1314  git clone https://github.com/lundal/vibou.gTile.git ~/.local/share/gnome-shell/extensions/gTile@vibou
+ 1315  cd .local/share/
+ 1316  ls
+ 1317  cd gnome-shell/extensions/
+ 1318  ls
+ 1319  ll
+ 1320  cd gTile\@vibou/
+ 1321  ls
+ 1322  ll
+ 1323  e
+ 1324  gdb
+ 1325  apt-get install gdb
+ 1326  sudo apt-get install gdb
+ 1327  cd 
+ 1328  cd nework-git/
+ 1329  cd cpro/
+ 1330  ll
+ 1331  gdb total_cahr.c 
+ 1332  ls
+ 1333  gdb cgh.c
+ 1334  gdb cth
+ 1335  e
+ 1336  ls
+ 1337  ./put1
+ 1338  e
+ 1339  cd
+ 1340  e
+ 1341  w
+ 1342  who
+ 1343  su - root
+ 1344  vi a.c
+ 1345  vi a.c  b.c
+ 1346  exit
+ 1347  dir
+ 1348  pwd
+ 1349  ls
+ 1350  dir
+ 1351  ll
+ 1352  ls -l
+ 1353  vim a.c
+ 1354  ls
+ 1355  ll
+ 1356  e
+ 1357  ls
+ 1358  pwd
+ 1359  ll
+ 1360  w
+ 1361  ls
+ 1362  ll
+ 1363  exit
+ 1364  cat /etc/hosts
+ 1365  vim .bashrc
+ 1366  . .bashrc 
+ 1367  cat  /etc/hosts
+ 1368  . .badh
+ 1369  .bashrc
+ 1370  . .bashrc
+ 1371  cst
+ 1372  cd /et c
+ 1373  cd /etc/:
+ 1374  cd  /etc/bashrc
+ 1375  cd  /etc/
+ 1376  cat hosts
+ 1377  echo  rr
+ 1378  echo  >r
+ 1379  echo  >>hosts
+ 1380  su
+ 1381  exir
+ 1382  exit
+ 1383  ls
+ 1384  sudo apt-get install pgrep
+ 1385  sudo apt-get install pcregrep
+ 1386  . .bashrc
+ 1387  pgrep
+ 1388  vim .bashrc 
+ 1389  . .bashrc
+ 1390  ll
+ 1391  ll |pgrep 
+ 1392  ll |pgrep  a
+ 1393  ls  |pgrep  a
+ 1394  ls
+ 1395  ls |pgrep xflux
+ 1396  ps -ef |pgrep bash
+ 1397  ps -ef |pgrep 
+ 1398  cd
+ 1399  exit
+ 1400  cd .gnome/
+ 1401  ls
+ 1402  cd apps/
+ 1403  ls
+ 1404  history
+ 1405  cd
+ 1406  cd .local/share/
+ 1407  ls
+ 1408  cd gnome-shell/
+ 1409  ls
+ 1410  cd application_state 
+ 1411  cd ..
+ 1412  ll
+ 1413  ls
+ 1414  cd gnome-shell/
+ 1415  ls
+ 1416  ll
+ 1417  cd extensions/
+ 1418  ls
+ 1419  ll
+ 1420  cd gTile\@vibou/
+ 1421  ls
+ 1422  ll
+ 1423  cd schemas/
+ 1424  ls
+ 1425  ll
+ 1426  ls
+ 1427  pwd
+ 1428  ls
+ 1429  ll
+ 1430  cd
+ 1431  gnome-shell-extension-tool --create-extension
+ 1432  cd /home/limq/.local/share/gnome-shell/extensions/gTile@debain1
+ 1433  ls
+ 1434  ll
+ 1435  e
+ 1436  cd
+ 1437  vim .bashrc 
+ 1438  . .bashrc
+ 1439  hosts
+ 1440  ls
+ 1441  hosts 
+ 1442  cat hosts 
+ 1443  sudo apt-get install pcmanfm
+ 1444  sudo apt-get install i3wm
+ 1445  sudo apt-get install tmux
+ 1446  tmux
+ 1447  ir
+ 1448  tmux
+ 1449  tmux 
+ 1450  exit
+ 1451  python3
+ 1452  sudo apt-get install python3-pip
+ 1453  sudo apt-get install bs4
+ 1454  git clone --depth=1 https://github.com/chestnutheng/wudao-dict
+ 1455  ls
+ 1456  cd Downloads/
+ 1457  ls
+ 1458  unzip Wudao-dict-master.zip 
+ 1459  ls
+ 1460  cd ./Wudao-dict-master/
+ 1461  ls
+ 1462  cd wudao-dict/
+ 1463  ls
+ 1464  ll
+ 1465  chmod a+x setup.sh
+ 1466  ls
+ 1467  ll
+ 1468  sudo sh setup.sh 
+ 1469  wd test
+ 1470  cd
+ 1471  wd
+ 1472  wd -h
+ 1473  cd /usr/bin/wd 
+ 1474  vi /usr/bin/wd 
+ 1475  sudo vim /usr/bin/wd 
+ 1476  wd test
+ 1477  e
+ 1478  wd distribution
+ 1479  wd distribution -o
+ 1480  wd intended
+ 1481  wd freely redistributable
+ 1482  wd freely 
+ 1483  wd redistributable
+ 1484  wd redistri
+ 1485  wd redistributable -o
+ 1486  cd Downloads/
+ 1487  ls
+ 1488  ll
+ 1489  tar -zxvf beautifulsoup4-4.1.0.tar.gz 
+ 1490  cd beautifulsoup4-4.1.0
+ 1491  ls
+ 1492  ll
+ 1493  cat README.txt 
+ 1494  ls
+ 1495  ll
+ 1496  sudo ./setup.py 
+ 1497  chmod a+x setup.py 
+ 1498  sudo ./setup.py 
+ 1499  ll
+ 1500  cat setup.py 
+ 1501  ll
+ 1502  python setup.py 
+ 1503  python3 setup.py 
+ 1504  sudo python3 setup.py 
+ 1505  ll
+ 1506  cat README.txt 
+ 1507  python3
+ 1508  cd
+ 1509  sudo pip3 install bs4
+ 1510  wd redistributable -o
+ 1511  python3
+ 1512  wd redistributable -o
+ 1513  pip install lxml
+ 1514  git clone Wudao-dict/wd_monofile
+ 1515  vim a.py
+ 1516  cp a.py ./wd_monofile
+ 1517  ls
+ 1518  ll
+ 1519  cp ./wd_monofile /usr/bin/
+ 1520  sudo cp ./wd_monofile /usr/bin/
+ 1521  wd redistributable -o
+ 1522  pip install html5lib
+ 1523  sudo pip install html5lib
+ 1524  pip
+ 1525  python3
+ 1526  sudo pip3 install bs4
+ 1527  sudo pip3 install html5lib
+ 1528  sudo pip3 install lxml
+ 1529  apt-cache search libxml2
+ 1530  apt-get install libxml2
+ 1531  sudo apt-get install libxml2
+ 1532  sudo apt-get install libxml2-dev
+ 1533  sudo pip3 install lxml
+ 1534  e
+ 1535  sudo apt-get build-dep python2.7-dev
+ 1536  sudo pip3 install lxml
+ 1537  e
+ 1538  sudo apt-get install python-twisted-dev
+ 1539  sudo apt-get build-dep
+ 1540  sudo apt-get install  build-dep
+ 1541  sudo apt-get install  build
+ 1542  apt-cache  search   build
+ 1543  apt-cache  search   "^build-dep"
+ 1544  apt-cache  search   "^build"
+ 1545  sudo apt-cache  search   "^build"
+ 1546  sudo pip3  install psutil
+ 1547  e
+ 1548  sudo pip install lxml
+ 1549  sudo pip3 install lxml
+ 1550  sudo  apt-get install python3-dev
+ 1551  python3.5 /tmp/pip-build-5fnf0_v_/lxml/setup.py
+ 1552  sudo python3 /tmp/pip-build-5fnf0_v_/lxml/setup.py
+ 1553  ls
+ 1554  ll
+ 1555  sudo pip3 install lxml
+ 1556  apt-get install gcc
+ 1557  sudo apt-get install gcc
+ 1558  sudo ln -s /usr/include/libxml2/libxml   /usr/include/libxml
+ 1559  sudo apt-get install libxml2-dev
+ 1560  sudo pip3 install lxml
+ 1561  sudo ln -s /usr/include/libxml2/libxslt   /usr/include/libxslt
+ 1562  sudo pip3 install lxml
+ 1563  sudo apt-get install libxslt-dev
+ 1564  sudo ln -s /usr/include/libxml2/libxslt   /usr/include/libxslt
+ 1565  sudo pip3 install lxml
+ 1566  wd -o
+ 1567  wd  test  -o
+ 1568  wd redistributable -o
+ 1569  history
+ 1570  history >>history
