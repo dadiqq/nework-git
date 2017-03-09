@@ -1,0 +1,100 @@
+   95  git clone https://github.com/dadiqq/nework-git.git
+   97  cd  nework-git/
+  113  cd nework-git/
+  122  git remote add origin git@github.com:dadiqq/nework-git.git
+  123  git remote remove  origin git@github.com:dadiqq/nework-git.git
+  125  git remote add origin git@github.com:dadiqq/nework-git.git
+  141  echo nework-git/ >>.bashrc
+  383  cd nework-git/
+  390  cd nework-git/
+  433  wo
+  439  wo
+  454  wo Q
+  458  wo
+  473  wo free
+  474  wo book
+  477  wo book
+  478  wo free
+  479  wo bird
+  481  wo figure
+  482  wo unfamiliar
+  483  wo controls
+  484  wo complete
+  485  wo register
+  486  wo communication
+  487  wo relies
+  488  wo transmit
+  489  wo regular
+  490  wo recipient
+  491  wo retrieves
+  492  wo arrive
+  493  wo destination
+  494  wo recalled
+  495  wo once sent
+  497  wo sent
+  498  wo receive
+  499  wo enables
+  500  wo compose
+  503  history |grep wo
+  504  wo provider
+  505  wo webmail
+  506  wo provider
+  507  wo store
+  508  wo simply
+  509  wo contrast
+  510  wo transfers
+  513  wo requires
+  514  wo special
+  515  wo uniqueness
+  516  wo uniquenes
+  517  wo unique
+  518  wo valid
+  519  wo dictionary
+  520  wo complete
+  521  wo rest
+  522  wo registration
+  523  wo advantages
+  524  wo disadvantages
+  526  wo definitely
+  527  wo easier
+  528  wo ideal
+  529  wo throw away
+  530  wo ideal
+  531  wo regular
+  532  wo correspondence
+  533  wo regular
+  534  wo consider
+  535  wo throw-away
+  536  wo throwaway
+  537  wo occasions
+  538  wo continued
+  539  wo correspondece
+  540  wo chapter
+  541  wo scams
+  542  wo scam
+  543  wo marketing
+  544  wo contribute
+  545  wo junk
+  546  wo receive
+  547  wo recipient
+  548  wo avaible
+  549  wo available
+  550  wo each
+  551  wo slihtly
+  552  wo sliht
+  553  wo slightl
+  554  wo slightly
+  555  wo available
+  556  wo making
+  557  wo impossible
+  558  wo cover
+  559  wo options
+  560  wo orientation
+  561  wo enlist
+  562  wo aid
+  563  wo experienced
+  564  wo packages
+  565  wo package
+  566  wo similar
+  570  cd nework-git/
+  576  history |grep wo > his.txt
