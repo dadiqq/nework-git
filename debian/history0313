@@ -1,0 +1,1194 @@
+    1  su
+    2  cd debian/
+    3  ls
+    4  cd Downloads/
+    5  ls
+    6  sudo gdebi google-chrome-stable_current_amd64.deb 
+    7  ls
+    8  sudo gdebi lantern-installer-beta-64-bit.deb 
+    9  lantern 
+   10  sudo apt-get install libappindicator3-1 libappindicator3-dev
+   11  lantern 
+   12  scp  limq@192.168.1.16:/home/limq/Dowloder/lan* ./
+   13  scp  limq@192.168.1.16:/home/limq/Dowloads/goog* ./
+   14  scp  limq@192.168.1.16:/home/limq/Downloads/google* ./
+   15  sudo gdebi google-chrome-stable_current_amd64.deb 
+   16  google-chrome
+   17  ls
+   18  ll
+   19  mv google-chrome-stable_current_amd64.deb  Downloads/
+   20  ls
+   21  ll
+   22  mv -r debian/ Downloads/
+   23  ls
+   24  ll
+   25  su
+   26  lantern 
+   27  ls
+   28  ls
+   29  cd debian/
+   30  ls
+   31  cd Downloads/
+   32  ls
+   33  ll
+   34  lscd
+   35  cd
+   36  cd Downloads/
+   37  ls
+   38  ll
+   39  cd
+   40  cd /
+   41  ls
+   42  cd
+   43  ls
+   44  cd
+   45  cd Downloads/
+   46  ls
+   47  sudo gdebi lantern-installer-beta-64-bit.deb 
+   48  lantern 
+   49  ls
+   50  lantern
+   51  git clone https://github.com/getlantern/lantern.git
+   52  sudo apt-get isntall git
+   53  sudo apt-get install git
+   54  git clone https://github.com/getlantern/lantern.git
+   55  lantern 
+   56  sudo apt-get install libstdc++6:i386 libgcc1:i386 zlib1g:i386 libncurses5:i386
+   57  ./tv-setup checklibs
+   58  ls
+   59  ll
+   60  sudo ./tv-setup checklibs
+   61  su
+   62  cd /opt/
+   63  cd teamviewer/
+   64  ls
+   65  sudo  apt-get install libdbus-1-3:i386 libasound2:i386 libexpat1:i386 libfontconfig1:i386 libfreetype6:i386 libjpeg62:i386 libpng12-0:i386 libsm6:i386 libxdamage1:i386 libxext6:i386 libxfixes3:i386 libxinerama1:i386 libxrandr2:i386 libxrender1:i386 libxtst6:i386 zlib1g:i386 
+   66  ls
+   67  sudo ./teamviewer 
+   68  ./teamviewer 
+   69  ls
+   70  cd ..
+   71  ll
+   72  chmod -R 755 teamviewer
+   73  sudo chmod -R 755 teamviewer
+   74  ls
+   75  cd teamviewer/
+   76  ll
+   77  ./teamviewer
+   78  sudo chmod -R 757 teamviewer
+   79  ls
+   80  ./teamviewer
+   81  su
+   82  ls
+   83  pwd
+   84  ll
+   85  ls
+   86  ll
+   87  pwd
+   88  ll
+   89  e
+   90  who
+   91  ls
+   92  ll
+   93  vim a.c
+   94  cd
+   95  git clone https://github.com/dadiqq/nework-git.git
+   96  ls
+   97  cd  nework-git/
+   98  ls
+   99  cd cpro/
+  100  ls
+  101  ll
+  102  vim t1.c
+  103  ls
+  104  ll
+  105  pwd
+  106  who
+  107  ls
+  108  lantern 
+  109  top
+  110  e
+  111  cd ..
+  112  ls
+  113  cd nework-git/
+  114  ls
+  115  git config --global user.name "limq-debianvm-home"
+  116  git config --global user.email "gylimingqi@163.com"
+  117  git config --global push.default simple
+  118  git config --global user.name "limq-debianvm-home"
+  119  git config --global push.default simple
+  120  git config --global user.email "gylimingqi@163.com"
+  121  ls
+  122  git remote add origin git@github.com:dadiqq/nework-git.git
+  123  git remote remove  origin git@github.com:dadiqq/nework-git.git
+  124  git remote remove  origin 
+  125  git remote add origin git@github.com:dadiqq/nework-git.git
+  126  cd
+  127  mkdir .ssh
+  128  cd .ssh/
+  129  ls
+  130  ssh-keygen -t rsa -C "gylimingqi@163.com"
+  131  echo 'unset SSH_ASKPASS' >> ~/.bashrc && source ~/.bashrc
+  132  ls
+  133  cat id_rsa.pub 
+  134  ssh -T git@github.com
+  135  echo 'unset SSH_ASKPASS' >> ~/.bashrc && source ~/.bashrc
+  136  ls
+  137  cd
+  138  vim .bashrc 
+  139  ls
+  140  echo Documents >>.bashrc
+  141  echo nework-git/ >>.bashrc
+  142  vim .bashrc 
+  143  . .bashrc
+  144  cd wd
+  145  cd $wd
+  146  ls
+  147  pwd
+  148  cd $doc
+  149  ls
+  150  pwd
+  151  ls
+  152  ll
+  153  cd
+  154  cd Downloads/
+  155  ls
+  156  wget https://justgetflux.com/linux/xflux.tgz
+  157  tar -xvzf xflux.tgz 
+  158  ls
+  159  ll
+  160  sudo cp xflux /usr/local/bin/
+  161  sudo chmod 755 /usr/local/bin/xflux 
+  162  xflux -l 40 -g 120
+  163  sudo apt-cache search libXxf86vm
+  164  sudo apt-get install  libxxf86vm1 libxxf86vm-dev   libxxf86vm1-dbg
+  165  xflux -l 40 -g 120
+  166  sudo xflux -l 40 -g 120
+  167  sudo apt-get install  libxxf86vm1 libxxf86vm-dev   libxxf86vm1-dbg
+  168  su -
+  169  ls
+  170  sudo vim /root/.bashrc
+  171  sudo . /root/.bashrc
+  172  sudo source /root/.bashrc
+  173  exit
+  174  free -m
+  175  ls'
+  176  who
+  177  whoimi
+  178  whoami
+  179  whois
+  180  ls
+  181  who
+  182  whoami
+  183  whois -K
+  184  whois -L
+  185  whois -l
+  186  who
+  187  lantern 
+  188  ls
+  189  ll
+  190  su - root
+  191  ls
+  192  ll
+  193  xflux
+  194  cd /usr/local/lib/
+  195  ls
+  196  ll
+  197  ls libXxf86vm.so.1
+  198  cp libXxf86vm.so.1 /usr/lib/
+  199  sudo  libXxf86vm.so.1 /usr/lib/
+  200  cd /usr/lib/
+  201  ls
+  202  ls libXxf86vm.so.1.0.0
+  203  ls libXxf86vm.so.1
+  204  ls libXxf86vm.so
+  205  ls libXxf86vm*
+  206  ll
+  207  cd /usr/local/lib/
+  208  ls
+  209  ll
+  210  sudo cp libXxf86vm.*   /usr/lib/
+  211  cd /usr/lib/
+  212  ls |grep libXxf86vm
+  213  ls -l |grep libXxf86vm
+  214  xflux 
+  215  ls -l |grep libXxf86vm
+  216  rm libXxf86vm*
+  217  ls
+  218  cd /usr/local/lib/
+  219  ls
+  220  ll
+  221  ln -s lib  libXxf86vm.so.1.0.0 
+  222  ln -s   libXxf86vm.so.1.0.0  libXxf86vm.so.9
+  223  sudo ln -s   libXxf86vm.so.1.0.0  libXxf86vm.so.9
+  224  ls
+  225  sudo cp libXxf86vm.so.1.0.0  /usr/lib/
+  226  cd /usr/lib/
+  227  ln -s libXxf86vm.so.1.0.0  libXxf86vm.so 
+  228  sudo ln -s libXxf86vm.so.1.0.0  libXxf86vm.so 
+  229  ls -l |grep libXxf86vm
+  230  rm libXxf86vm.so
+  231  sudo rm libXxf86vm.so
+  232  sudo rm libXxf86vm.so.1
+  233  ls -l |grep libXxf86vm
+  234  ls -l |grep libXxf86vm*
+  235  ls -l |grep libXxf86*
+  236  ls
+  237  ls -l |grep libXxf86*
+  238  cd /usr/local/lib/
+  239  ls
+  240  sudo cp libXxf86vm.so.1.0.0  /usr/lib/
+  241  cd /usr/lib/
+  242  ls
+  243  ls -l |grep libXxf86*
+  244  ls -l |grep libXx
+  245  sudo rm  libXxf86vm.a libXxf86vm.la
+  246  ls -l |grep libXx
+  247  sudo ln -s libXxf86vm.so.1.0.0  libXxf86vm.so.1 
+  248  sudo ln -s libXxf86vm.so.1.0.0  libXxf86vm.so 
+  249  xflux 
+  250  sudo ln -s /usr/local/bin/libXxf86vm.so.1.0.0  libXxf86vm.so 
+  251  sudo libXxf86vm.so libXxf86vm.so.1
+  252  sudo rm libXxf86vm.so libXxf86vm.so.1
+  253  sudo ln -s /usr/local/bin/libXxf86vm.so.1.0.0  libXxf86vm.so 
+  254  sudo ln -s /usr/local/bin/libXxf86vm.so.1.0.0  libXxf86vm.so.1 
+  255  sudo rm libXxf86vm.so.1.0.0
+  256  ls
+  257  ls -l |grep libXx
+  258  xflux 
+  259  sudo rm libXxf86vm.so  libXxf86vm.so.1
+  260  sudo ln -s /usr/local/lib/libXxf86vm.so.1.0.0  libXxf86vm.so.1 
+  261  sudo ln -s /usr/local/lib/libXxf86vm.so.1.0.0  libXxf86vm.so
+  262  ls -l |grep libXx
+  263  xflux 
+  264  sudo xflux
+  265  cd
+  266  su
+  267  cd /opt/
+  268  ls
+  269  cd xflux-gui/
+  270  ls
+  271  e
+  272  cat readme.txt 
+  273  sudo python setup.py install
+  274  cat readme.txt 
+  275  fluxgui 
+  276  sudo fluxgui 
+  277  ps -ef |grrep fluxgui 
+  278  ps -ef |grrep flux 
+  279  xflux
+  280  cat readme.txt 
+  281  python download-xflux.py 
+  282  cp /tmp/xflux.tgz   ./xflux.tgz 
+  283  sudo cp /tmp/xflux.tgz   ./xflux.tgz 
+  284  sudo python setup.py install
+  285  sudo fluxgui 
+  286  e
+  287  cd
+  288  xflux 
+  289  su
+  290  cd
+  291  cd Downloads/
+  292  ls
+  293  gdebi ls
+  294  ll
+  295  sudo gdebi netease-cloud-music_1.0.0_amd64_ubuntu14.04.deb 
+  296  e
+  297  sudo apt-cache search vim-non
+  298  sudo apt-cache search vim-no
+  299  sudo apt-cache search vim
+  300  sudo apt-cache search vim-no
+  301  sudo apt-get install vim-nox
+  302  vim a.c
+  303  ls
+  304  ll
+  305  cd
+  306  cd Rwd
+  307  cd $wd
+  308  ls
+  309  cd cpro/
+  310  ld
+  311  ls
+  312  ch.c
+  313  cth.c
+  314  ./cth.c
+  315  vim cth.c 
+  316  xflux 
+  317  fluxgui 
+  318  sudo apt-cache search pip
+  319  sudo apt-cache search pytion-pip
+  320  sudo apt-cache search pytionpip
+  321  sudo apt-cache search pytion2pip
+  322  sudo apt-cache search pytion2-pip
+  323  sudo apt-cache search pytion2
+  324  sudo apt-cache search pytyon2
+  325  sudo apt-cache search python
+  326  sudo apt-cache search python2
+  327  sudo apt-cache search python2-pip
+  328  sudo apt-cache search python2-p
+  329  sudo apt-cache search python2
+  330  sudo apt-cache search pip
+  331  sudo apt-get install python-pip
+  332  fluxgui 
+  333  sudo pip install gtk.glade
+  334  sudo pip install gtk
+  335  sudo pip install glade
+  336  sudo apt-cache search python-glade2
+  337  sudo apt-get install  python-glade2
+  338  fluxgui 
+  339  sudo apt-get install  appindicator
+  340  sudo pip install appindicator
+  341  sudo apt-get install  libappindicator
+  342  xflux 
+  343  sudo apt-get install libgtk2.0-0:i386 libxxf86vm1:i386libsm6:i386 lib32stdc++6
+  344  sudo apt-get install libgtk2.0-0 i386 libxxf86vm1 i386libsm6 i386 lib32stdc++6
+  345  e
+  346  sudo apt-get install libxxf86vm1:i386 
+  347  xflux 
+  348  xflux -l 40N  -g 120E   -k 2700
+  349  kill 2825
+  350  ps -ef |grep flux
+  351  xflux -l 40N  -g 120E   -k 2700
+  352  ps -ef |grep flux
+  353  echo "xflux -l 40N  -g 120E   -k 2700">>runxflux.sh
+  354  chmod 755 runxflux.sh 
+  355  ls
+  356  ll
+  357  chmod 755 runxflux.sh 
+  358  sudo cd /root/
+  359  ls
+  360  su
+  361  cd
+  362  ls
+  363  sudo chmod 777 flux.sh 
+  364  vim flux.sh 
+  365  xflux stop
+  366  xflux restar
+  367  ./flux.sh restart
+  368  ps -ef |grep xflux
+  369  cat ./flux.sh 
+  370  ./flux.sh status
+  371  ./flux.sh
+  372  ./flux.sh stop
+  373  ./flux.sh status
+  374  ps -ef |grep xflux
+  375  ./flux.sh start
+  376  ./flux.sh stop
+  377  ps -ef |grep xflu
+  378  ./flux.sh start
+  379  e
+  380  ls
+  381  e
+  382  ls
+  383  cd nework-git/
+  384  ls
+  385  ll
+  386  cd cpro/
+  387  ls
+  388  ll
+  389  cd 
+  390  cd nework-git/
+  391  ls
+  392  cd debian/
+  393  ls
+  394  cp /boot/grub/grub.cfg  ./grub.cfg.win10
+  395  ls
+  396  ll
+  397  ls
+  398  pwd
+  399  ll
+  400  pwd
+  401  who
+  402  cd .
+  403  cd ..
+  404  cd cpro/
+  405  ls
+  406  ll
+  407  lantern 
+  408  cd
+  409  cd /opt/
+  410  ls'
+  411  ls
+  412  cd teamviewer/
+  413  su
+  414  sudo apt-get install amarok
+  415  ls
+  416  cat flux.sh 
+  417  ./flux.sh  start
+  418  cd Downloads/
+  419  ls
+  420  sudo gdebi wps-office_10.1.0.5672-a21_amd64.deb 
+  421  ls
+  422  wps 
+  423  cd
+  424  ll
+  425  ./xflux 
+  426  ll
+  427  ./flux.sh 
+  428  ./flux.sh start
+  429  ps -ef |grep flux
+  430  kill -9 7815
+  431  kill -9 7816
+  432  ps -ef |grep flux
+  433  wo
+  434  wd 
+  435  lantern 
+  436  su
+  437  ll
+  438  ./flux.sh  start
+  439  wo
+  440  wd
+  441  ls
+  442  cat /etc/hosts
+  443  ping 192.168.1.8
+  444  ping 192.168.1.13
+  445  ping 192.168.1.16
+  446  ifconfig
+  447  sudo ifconfig
+  448  ssh  192.168.1.8
+  449  ssh  192.168.1.16
+  450  su
+  451  ps -ef|grep flux
+  452  ls
+  453  ./flux.sh start
+  454  wo Q
+  455  wD Q
+  456  wd  Q
+  457  ow
+  458  wo
+  459  wd
+  460  ls
+  461  ll
+  462  exit
+  463  sudo pip3 install lxml
+  464  e
+  465  sudo apt-get install libxml2-dev
+  466  sudo apt-get build-dep python2.7-dev
+  467  sudo apt-get install  build
+  468  sudo pip3  install psutil
+  469  sudo pip install lxml
+  470  sudo pip3 install lxml
+  471  sudo  apt-get install python3-dev
+  472  sudo apt-get install libxml2-dev
+  473  sudo ln -s /usr/include/libxml2/libxml   /usr/include/libxml
+  474  sudo ln -s /usr/include/libxml2/libxslt   /usr/include/libxslt
+  475  sudo apt-get install libxslt-dev
+  476  sudo ln -s /usr/include/libxml2/libxslt   /usr/include/libxslt
+  477  sudo pip3 install lxml
+  478  wo
+  479  wo free
+  480  wo bc
+  481  wo c
+  482  wo cd
+  483  wo ogg
+  484  wo mpe
+  485  wo mp3
+  486  wo gfrgf
+  487  wd greo
+  488  wd eodfa
+  489  wo ran
+  490  wo go whith
+  491  wo such which
+  492  wo such whith
+  493  wo nether nor
+  494  wo ffe
+  495  wo free
+  496  wo bbc
+  497  wo god
+  498  wo God
+  499  friday
+  500  wo friday
+  501  wo offer
+  502  ls
+  503  history |grep wo
+  504  ls
+  505  vim .bashrc 
+  506  history
+  507  ls
+  508  cd nework-git/
+  509  ls
+  510  cd debian/
+  511  ls
+  512  dir
+  513  ls
+  514  cat history 
+  515  history
+  516  wo 交响曲
+  517  su
+  518  su
+  519  wo sinato
+  520  wo sonata
+  521  wo mozart
+  522  wo pianos
+  523  wo duet
+  524  wo violin
+  525  wo duet
+  526  wo violin
+  527  wo minor
+  528  gnome-screenshot 
+  529  man gnome-screenshot 
+  530  gnome-screenshot -c
+  531  gnome-screenshot -f abc
+  532  man gnome-screenshot 
+  533  gnome-screenshot -a
+  534  gnome-screenshot -d
+  535  man gnome-screenshot 
+  536  gnome-screenshot --display=1
+  537  gnome-screenshot --display=2
+  538  gnome-screenshot --display
+  539  gnome-screenshot --display=0
+  540  gnome-screenshot --display=0x
+  541  gnome-screenshot --display=x
+  542  man gnome-screenshot 
+  543  gnome-screenshot -c
+  544  gnome-screenshot -w
+  545  gnome-screenshot -a
+  546  wo free
+  547  wo style
+  548  wo amadeus
+  549  wo mozart
+  550  lantern 
+  551  wo generally
+  552  wo encounter
+  553  ee
+  554  e
+  555  wo fake
+  556  wo f
+  557  wo l
+  558  e
+  559  wo egg
+  560  wo fake
+  561  woe
+  562  e
+  563  storefonts
+  564  wo storefronts
+  565  wo encounter
+  566  woe
+  567  wo designed
+  568  wo legitimate
+  569  wo maerchaants
+  570  wo merchants
+  571  wo actully
+  572  wo actually
+  573  wo set up
+  574  wo credit card
+  575  wo information
+  576  wo actually
+  577  wo avoid
+  578  wo fakes
+  579  wo correctly
+  580  wo spelled
+  581  wo favorite
+  582  wo risk
+  583  wo surprisingly
+  584  wo valnerable
+  585  wo vulnerable
+  586  wo handles
+  587  wo jot
+  588  wo jot down
+  589  wo expiration
+  590  wo date
+  591  wo unauthorized
+  592  wo chanrges
+  593  wo charges
+  594  wo authorized
+  595  wo thieves
+  596  wo break into
+  597  wo break in
+  598  wo merchant
+  599  wo computers
+  600  wo store
+  601  wo order
+  602  wo information
+  603  wo mght
+  604  wo might
+  605  wo pick up
+  606  wo discarded
+  607  wo order 
+  608  wo forms
+  609  wo despite
+  610  wo risks
+  611  wo despite
+  612  wo continue
+  613  wo concerned
+  614  wo getting
+  615  wo intercepted
+  616  wo concerned
+  617  wo intercepted
+  618  wo travel over
+  619  wo internet
+  620  wo wrap up
+  621  wo purchase
+  622  wo submit
+  623  submit
+  624  wo submit
+  625  wo transmit
+  626  wo merchant
+  627  wo ppacket
+  628  wo packet
+  629  wo sniffer
+  630  ow designed
+  631  wo designed
+  632  wo legitimately
+  633  wo wo nitorying
+  634  wo monitorying
+  635  wo o
+  636  wo monitorying
+  637  wo legitimately
+  638  wo traffice
+  639  wo traffic
+  640  wo monitorying
+  641  wo designed
+  642  wo legitimately
+  643  wo designed
+  644  wo unscrupulous
+  645  wo hackers
+  646  wo intercept
+  647  wo travling
+  648  wo traveling
+  649  wo traveling over
+  650  WO CONFIDETIAL
+  651  wo confidential
+  652  wo merchant 
+  653  wo merchant  provides
+  654  wo provides
+  655  wo secure
+  656  wo connection
+  657  wo transporting
+  658  wo normally
+  659  wo secure
+  660  wo 安全
+  661  wo satety
+  662  wo safety
+  663  so securty
+  664  wo secuty
+  665  wo security
+  666  hostname
+  667  wo activate
+  668  wo final
+  669  wo checking out
+  670  wo form
+  671  wo submit
+  672  wo buton
+  673  wo button
+  674  wo encrypts
+  675  wo intercepted
+  676  wo even if
+  677  wo deciphered
+  678  wo used
+  679  wo lock icon
+  680  wo lock
+  681  wo icon
+  682  wo display
+  683  wo begins
+  684  wo bigian
+  685  wo bigain
+  686  wo begin
+  687  wo place
+  688  wo reach
+  689  wo checkout
+  690  wo evidence
+  691  wo complete
+  692  wo transaction
+  693  history |grep wo
+  694  wo privacy
+  695  wo safety
+  696  wo guidelines
+  697  wo avoiding
+  698  wo scams
+  699  wo con
+  700  wo artists
+  701  wo bilked
+  702  wo wo bilked
+  703  wo hear about
+  704  wo con artists
+  705  wo bilked
+  706  wo innocent
+  707  wo consumers
+  708  wo innocent consumers
+  709  wo consumers
+  710  wo out of
+  711  life savings
+  712  life saving
+  713  wo life saving
+  714  wo share
+  715  wo con artists
+  716  wo run 
+  717  wo wo scams
+  718  wo scams
+  719  wo designed
+  720  wo collect
+  721  wo designed
+  722  wo collect
+  723  wo confidential
+  724  wo information
+  725  w
+  726  who
+  727  w
+  728  wo narrow
+  729  vim .bashrc
+  730  . .bashrc
+  731  w wo collect
+  732  w collect
+  733  wo confidential
+  734  wo information
+  735  information
+  736  w information
+  737  wo unsuspecting
+  738  wo victims
+  739  wo usually
+  740  wo distributed
+  741  mass
+  742  w mass
+  743  wo mailling
+  744  mailings
+  745  w mailings
+  746  wo spam
+  747  spam
+  748  w spam
+  749  wd spam
+  750  wo spam
+  751  w spam
+  752  wo cheap
+  753  w send out
+  754  wo millions
+  755  wo solicitations
+  756  wo UNITED sTATES
+  757  WO CAN-SPAM
+  758  W CAN-SPAM
+  759  w CAN-SPAM
+  760  w SPAM
+  761  vim .bashrc 
+  762  . .bashrc
+  763  w act
+  764  wo reuires
+  765  w requires
+  766  mass-mail
+  767  w mass-mail
+  768  w mass
+  769  wo messages
+  770  wo labeled
+  771  wo valid
+  772  wo valid 
+  773  wosubject
+  774  w subject
+  775  w subject line
+  776  w labeled
+  777  wo recipients
+  778  w supposed
+  779  w provided
+  780  w opt out
+  781  wo receiving
+  782  w opt out
+  783  wo receiving
+  784  wo future
+  785  wo messages
+  786  wo legitimate
+  787  wo merchants
+  788  wo organizations
+  789  wo law
+  790  wo sending
+  791  wo product
+  792  wo announcements
+  793  wo newsleters
+  794  wo newsletters
+  795  wo valid
+  796  wo labeled
+  797  wo subject
+  798  wo recipients
+  799  wo suppposed
+  800  w supposed
+  801  wo recipients
+  802  w supposed
+  803  wo provided
+  804  wo opt out
+  805  wo unscrupulous
+  806  [2~~[24~~[24~[24~[24~~~~~~~~~~~~~~~[2~[2~~~~~[2~~~~~[2~~~~[2~~~~[24~[24~~[24~[24~[24~[24~[24~[24~[24~[24~[24~[24~[24~[24~[24~
+  807  ls
+  808  ~~~
+  809  ll
+  810  l
+  811  wo unscrupulous
+  812  w ignore
+  813  w disguise
+  814  w solicitation
+  815  w chat
+  816  w participants
+  817  w workers
+  818  wo participants
+  819  wo co-workers
+  820  w dangerous
+  821  wo contain
+  822  wo legitimate
+  823  wo daily
+  824  wo wo subscribed
+  825  w subscribed
+  826  wo advertise
+  827  wo illegal
+  828  wo products
+  829  wo outright
+  830  wo scams
+  831  wo download
+  832  wo virus
+  833  wo divulge
+  834  wo your 
+  835  bank
+  836  wo bank
+  837  caccount number
+  838  wo acccount
+  839  wo account number
+  840  wo money
+  841  wo products
+  842  wo receive
+  843  wo bewar
+  844  w beware
+  845  w containing
+  846  wo offers
+  847  wo that 
+  848  seem
+  849  w seem
+  850  wo message
+  851  wo winning
+  852  wo sweepstakes
+  853  wo pleas
+  854  wo winning
+  855  wo sweepstakes
+  856  wo pleas
+  857  for
+  858  wo transfer
+  859  wo nigeria
+  860  wo Nigeria
+  861  wo nigeria
+  862  wo scame
+  863  wo scams
+  864  wo raid
+  865  wo your
+  866  bank
+  867  wo bank
+  868  account
+  869  wo account
+  870  wo diplomat
+  871  wo arrive
+  872  wo jacksonville
+  873  wo international
+  874  wo airport
+  875  wo florida
+  876  wo call
+  877  ow him
+  878  wo him
+  879  wo rediffmail
+  880  wo notify
+  881  wo funds
+  882  wo phishing
+  883  wo pronounced
+  884  wo scam
+  885  wo arrives
+  886  wo official
+  887  wo conrrespondence
+  888  wo correspondence
+  889  wo major
+  890  company
+  891  wo cpmpany
+  892  wo company
+  893  wo actually
+  894  wo illegitimate
+  895  wo source
+  896  wo designed
+  897  wo trick
+  898  wo divulging
+  899  wo confidential
+  900  wo lead
+  901  wo wo official
+  902  wo official
+  903  wo confidential
+  904  wo social
+  905  wo scams
+  906  w be aware of
+  907  wo attachment
+  908  ow supposedly
+  909  w supposedly
+  910  wo contains
+  911  wo officiallooking
+  912  wo official
+  913  wo alerts
+  914  wo problem
+  915  wo click
+  916  wo billing
+  917  wo billing center
+  918  wo transmited
+  919  wo transmited |more
+  920  wo postal
+  921  wo informing
+  922  wo malware
+  923  wo avoid
+  924  wo rovides
+  925  wo provides
+  926  wo spam
+  927  wo filters
+  928  wo block
+  929  wo unsolicited
+  930  wo filters
+  931  wo perfect
+  932  wo far from
+  933  wo assume
+  934  wo legitimate
+  935  wo judgment
+  936  wo attachment
+  937  wo reply
+  938  wo suspect
+  939  wo faudulent
+  940  wo fraudulent
+  941  wo question
+  942  wo legitimacy
+  943  wo whether
+  944  wo list
+  945  wo scams
+  946  provided
+  947  w provided
+  948  wo manage any account
+  949  womanage
+  950  w manage
+  951  ow account
+  952  w account
+  953  wo instead
+  954  wo browser
+  955  wo directly
+  956  wo wo acess
+  957  w access
+  958  wo account
+  959  as usual
+  960  w usual
+  961  wo collected
+  962  w stored
+  963  ow protntial
+  964  w potential
+  965  wo consolidated
+  966  wo government
+  967  w agnecies
+  968  w agencies
+  969  wo private
+  970  wo businesses
+  971  wo criminals
+  972  wo accessible
+  973  wo contain
+  974  wo maintained
+  975  wo commerce
+  976  wo illegally
+  977  wo acquired
+  978  wo accessible
+  979  wo contain
+  980  wo few
+  981  wo parities
+  982  wo single
+  983  wo legitimate
+  984  wo sold
+  985  wo continuous
+  986  wo chain
+  987  wo clog up
+  988  wo available
+  989  wo consumers
+  990  wo handheld
+  991  wo calculators
+  992  sudo ping www.baidu.com
+  993  w collected
+  994  wo potential
+  995  wo consolidated 
+  996  wo agencies
+  997  wo private
+  998  wo criminals
+  999  wo legitimate
+ 1000  wo maintained
+ 1001  wo cedit
+ 1002  wo credit
+ 1003  wo bureaus
+ 1004  wo medical
+ 1005  wo insurance
+ 1006  wo medical insurance
+ 1007  wo legitimate
+ 1008  wo maintained
+ 1009  wo credit bureaus
+ 1010  wo correct
+ 1011  wo maintained
+ 1012  wo commerce
+ 1013  wo illegally
+ 1014  wo acquired
+ 1015  wo accessibel
+ 1016  wo accessible
+ 1017  wo contain
+ 1018  wo parties
+ 1019  wo legitimate
+ 1020  wo sold to
+ 1021  wo continuous
+ 1022  w chain
+ 1023  wo generate
+ 1024  mass
+ 1025  w mass
+ 1026  wo clog up
+ 1027  wo promotions
+ 1028  wo useless
+ 1029  w seless
+ 1030  w less
+ 1031  w eless
+ 1032  wo control
+ 1033  wo extent
+ 1034  wo limit
+ 1035  w exposure
+ 1036  wo future
+ 1037  wo data
+ 1038  wo collection
+ 1039  w supply
+ 1040  wo personal
+ 1041  wo absolutely
+ 1042  wo necessary
+ 1043  wo filling out
+ 1044  wo absolutely
+ 1045  wo future data
+ 1046  wo future 
+ 1047  wo limit
+ 1048  w exposure
+ 1049  wo consider
+ 1050  wo provide
+ 1051  wo avoid
+ 1052  wo providing
+ 1053  wo merchants
+ 1054  wo promised
+ 1055  wo coupon
+ 1056  w preferred
+ 1057  wo customer
+ 1058  wo satus
+ 1059  wo status
+ 1060  wo reward
+ 1061  wo worth
+ 1062  wo aggravation
+ 1063  history |grep wo
+ 1064  wo opt out
+ 1065  wo controversial 
+ 1066  wo controversial  practice
+ 1067  wo practice
+ 1068  wo reputable
+ 1069  wo mailings
+ 1070  wo reputable
+ 1071  wo click
+ 1072  wo might
+ 1073  wo discontinue
+ 1074  wo continue
+ 1075  wo unwanted
+ 1076  wo however
+ 1077  wo necessarily
+ 1078  wo could
+ 1079  wo sold to
+ 1080  wo sold
+ 1081  wo disregards
+ 1082  wo request
+ 1083  wo scammers
+ 1084  w targets
+ 1085  wo look for
+ 1086  wo perhaps
+ 1087  wo contains
+ 1088  wo lots of
+ 1089  w fake
+ 1090  wo outdated
+ 1091  wo played right
+ 1092  wo played
+ 1093  wo right
+ 1094  w hands
+ 1095  wo unscrupulous
+ 1096  wo valid
+ 1097  w experts
+ 1098  wo recommend
+ 1099  wo wo instead
+ 1100  wo instead
+ 1101  wo sender
+ 1102  wo tempted
+ 1103  wo directly
+ 1104  wo carefully
+ 1105  w examine
+ 1106  wo connect
+ 1107  w legitimate
+ 1108  wo recommend
+ 1109  wo instead
+ 1110  wo tempted
+ 1111  wo risk
+ 1112  wo sate
+ 1113  wo social
+ 1114  wo networking
+ 1115  wo linkedln
+ 1116  wo linkedin
+ 1117  wo prolific
+ 1118  wo followers
+ 1119  wo nasty
+ 1120  wo surprise
+ 1121  wo morning
+ 1122  wo specific
+ 1123  wo discovered
+ 1124  wo extreme
+ 1125  wo example
+ 1126  wo wrong
+ 1127  wo social
+ 1128  wo embarrassing
+ 1129  wo incidents
+ 1130  wo frequent
+ 1131  w
+ 1132  w how
+ 1133  w reveal
+ 1134  wo social
+ 1135  w social
+ 1136  wo reveal
+ 1137  wo increase
+ 1138  wo susceptibility
+ 1139  wo identify
+ 1140  wo identity
+ 1141  wo stalking
+ 1142  wo embarrass
+ 1143  wo moments
+ 1144  w prospective
+ 1145  wo empoyer
+ 1146  w employer
+ 1147  wo happens
+ 1148  ll
+ 1149  ls
+ 1150  pwd
+ 1151  w
+ 1152  ls
+ 1153  wo embarrass
+ 1154  wo moments
+ 1155  wo prospective
+ 1156  wo employer
+ 1157  w happents
+ 1158  wo flattering
+ 1159  wo photos
+ 1160  w spring 
+ 1161  w break
+ 1162  wo spring break
+ 1163  wo stay
+ 1164  wo stuff
+ 1165  wo stuff private
+ 1166  wo social 
+ 1167  wo first
+ 1168  rule
+ 1169  w rule
+ 1170  w social
+ 1171  w rule
+ 1172  wo social
+ 1173  wo unfortunately
+ 1174  wo withholding
+ 1175  w provides
+ 1176  wosecurity blanket
+ 1177  w blanket
+ 1178  w rule
+ 1179  w social
+ 1180  w depend
+ 1181  references
+ 1182  w references
+ 1183  w establishi
+ 1184  w establish
+ 1185  w trusted
+ 1186  cricle 
+ 1187  w circle
+ 1188  w contacts
+ 1189  w rusted
+ 1190  wtrusted
+ 1191  w social
+ 1192  w twitter
+ 1193  ls
+ 1194  history >>history0313
