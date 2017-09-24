@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 #file timeerseqs.py
 import time,sys
 reps=10000

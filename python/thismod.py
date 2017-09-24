@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 #thismod.py
 var = 99
 def local():

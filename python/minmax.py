@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #minmax.py
 def minmax(test,*args):
     res=args[0]

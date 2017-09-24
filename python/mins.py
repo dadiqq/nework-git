@@ -1,3 +1,9 @@
+#! /usr/bin/python
+#! /usr/bin/python3
+#! /usr/bin/python3
+#! /usr/bin/python3
+#! /usr/bin/python3
+#! /usr/bin/python3
 #mins.py
 def min1(*args):
     res=args[0]
